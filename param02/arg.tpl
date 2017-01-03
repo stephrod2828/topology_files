@@ -1,5 +1,5 @@
 ####Arginine
-
+# This is stephanie, I wanna edit this file 
 CONFLIST ARG        ARGBK ARG01 ARG02 ARG03 ARG+1
 
 NATOM    ARGBK      6
